@@ -1,39 +1,39 @@
 [
     {
         "locationName": "Europe",
-        "locationUrl": "location://europe",
+        "locationUrl": "/europe",
         "locationType": "CONTINENT",
         "locationChildren": [
             {
                 "locationName": "Italy",
-                "locationUrl": "location://europe/italy",
+                "locationUrl": "/europe/italy",
                 "locationType": "COUNTRY",
                 "locationChildren": [
                     {
                         "locationName": "Rome",
-                        "locationUrl": "location://europe/italy/rome",
+                        "locationUrl": "/europe/italy/rome",
                         "locationType": "CITY"
                     },
                     {
                         "locationName": "Milan",
-                        "locationUrl": "location://europe/italy/milan",
+                        "locationUrl": "/europe/italy/milan",
                         "locationType": "CITY"
                     }
                 ]
             },
             {
                 "locationName": "France",
-                "locationUrl": "location://europe/france",
+                "locationUrl": "/europe/france",
                 "locationType": "COUNTRY",
                 "locationChildren": [
                     {
                         "locationName": "Rome",
-                        "locationUrl": "location://europe/france/paris",
+                        "locationUrl": "/europe/france/paris",
                         "locationType": "CITY"
                     },
                     {
                         "locationName": "Milan",
-                        "locationUrl": "location://europe/france/lyon",
+                        "locationUrl": "/europe/france/lyon",
                         "locationType": "CITY"
                     }
                 ]
