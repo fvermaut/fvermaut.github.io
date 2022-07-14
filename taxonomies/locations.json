@@ -7,12 +7,36 @@
             {
                 "locationName": "Italy",
                 "locationUrl": "location://europe/italy",
-                "locationType": "COUNTRY"
+                "locationType": "COUNTRY",
+                "locationChildren": [
+                    {
+                        "locationName": "Rome",
+                        "locationUrl": "location://europe/italy/rome",
+                        "locationType": "CITY"
+                    },
+                    {
+                        "locationName": "Milan",
+                        "locationUrl": "location://europe/italy/milan",
+                        "locationType": "CITY"
+                    }
+                ]
             },
             {
                 "locationName": "France",
                 "locationUrl": "location://europe/france",
-                "locationType": "COUNTRY"
+                "locationType": "COUNTRY",
+                "locationChildren": [
+                    {
+                        "locationName": "Rome",
+                        "locationUrl": "location://europe/france/paris",
+                        "locationType": "CITY"
+                    },
+                    {
+                        "locationName": "Milan",
+                        "locationUrl": "location://europe/france/lyon",
+                        "locationType": "CITY"
+                    }
+                ]
             }
         ]
     }
