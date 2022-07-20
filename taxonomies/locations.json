@@ -37,6 +37,23 @@
                         "locationType": "CITY"
                     }
                 ]
+            },
+            {
+                "locationName": "Germany",
+                "locationUrl": "/europe/germany",
+                "locationType": "COUNTRY",
+                "locationChildren": [
+                    {
+                        "locationName": "Berlin",
+                        "locationUrl": "/europe/germany/berlin",
+                        "locationType": "CITY"
+                    },
+                    {
+                        "locationName": "Frankfurt",
+                        "locationUrl": "/europe/germany/frankfurt",
+                        "locationType": "CITY"
+                    }
+                ]
             }
         ]
     }
